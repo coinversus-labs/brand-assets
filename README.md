@@ -10,7 +10,6 @@ CVS
 
 ### Colors 
 
-
 ### Typography
 - - - - 
 ### [Ubuntu](https://fonts.google.com/specimen/Ubuntu) #
@@ -24,6 +23,7 @@ font-family: 'Ubuntu', sans-serif;
 ```
 font-family: 'Nunito', sans-serif;
 ```  
+
 ### [Roboto](https://fonts.google.com/specimen/Roboto) #
 ```
 font-family: 'Roboto', sans-serif;
@@ -32,4 +32,4 @@ font-family: 'Roboto', sans-serif;
 ### Ranking System
 
 
-### Robots
+### CryptRobots
