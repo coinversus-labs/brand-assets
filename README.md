@@ -1,7 +1,7 @@
 # CoinVersus brand assets
 assets, logos, colors, typography, illustrations, animations and etc
 
-<a href="https://coinversus.com"> ![CoinVersus](https://raw.githubusercontent.com/CoinVs/brand-assets/master/logo.png) </a>
+<a href="https://coinversus.com"> ![CoinVersus](https://raw.githubusercontent.com/CoinVs/brand-assets/master/logo/logo.png) </a>
 
 ### Symbol
 ```
@@ -31,6 +31,5 @@ font-family: 'Roboto', sans-serif;
 
 ### Ranking System
 
-![Ranks](https://raw.githubusercontent.com/CoinVs/brand-assets/master/illustrations/coinvs-ranking-system.png)
 
 ### Robots
