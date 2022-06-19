@@ -31,5 +31,3 @@ font-family: 'Roboto', sans-serif;
 
 ### Ranking System
 
-
-### CryptRobots
