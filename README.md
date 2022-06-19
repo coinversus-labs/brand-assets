@@ -29,5 +29,3 @@ font-family: 'Nunito', sans-serif;
 font-family: 'Roboto', sans-serif;
 ```
 
-### Ranking System
-
