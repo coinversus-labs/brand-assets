@@ -9,6 +9,18 @@ CVS
 ```
 
 ### Colors 
+Blue
+```
+#3386C1
+```
+Cyan
+```
+#12DDFF
+```
+Theme dark
+```
+#111325
+```
 
 ### Typography
 - - - - 
